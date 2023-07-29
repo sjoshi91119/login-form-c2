@@ -1,10 +1,10 @@
 import "./App.css";
-import { Background } from "./components/background";
+import { Profile } from "./components/Profile";
 
 function App() {
   return (
     <>
-      <Background />
+      <Profile />
     </>
   );
 }
