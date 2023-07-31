@@ -109,4 +109,14 @@ body {
   color: white;
   letter-spacing: 1.5px;
   border: 2px solid blue;
+  /* ======= */
+  display: flex;
+  justify-content: center;
+}
+.bot-rect {
+  z-index: 0;
+}
+.top-rect {
+  position: absolute;
+  z-index: 1;
 }
